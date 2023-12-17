@@ -1,0 +1,6 @@
+glob
+streamlit
+langchain
+PyPDF2
+qdrant-client
+
